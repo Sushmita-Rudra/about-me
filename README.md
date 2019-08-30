@@ -21,9 +21,9 @@ Below are the tools and languages, which I personally felt useful to me while de
 
 ### Languages:
 
-- Markdown
-- HTML
-- CSS
+1. Markdown
+1. HTML
+1. CSS
 
 ## Recommended Resources
 
