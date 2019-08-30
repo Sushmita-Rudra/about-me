@@ -15,9 +15,23 @@ Below are the tools and lanquages , which I personally felt useful to me while d
 
 ### Tools:
 
-* [Github help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 * [Google Chrome](https://www.google.com/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+
+### Languages:
+
+* HTML
+* CSS
+
+## Recommended Resources
+
+Below are the few links which helped me gain knowledge on developing github pages
+
+* [Github help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+* [Stack overflow](https://stackoverflow.com/)
+* []()
 
 
 
