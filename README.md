@@ -7,7 +7,7 @@
 
 ## About
 
-This repository will have all my work while I develop my own personal website using various technologies. I will also add links to tools which I recommend everyone to refer for developing github pages.
+This repository will have all my work while I develop my own personal website using various technologies. I will also add links to tools which I recommend everyone to refer to develop github pages.
 
 ## Recommended Tools
 
@@ -35,7 +35,7 @@ Below are the few links which helped me gain knowledge on developing github page
 
 ## Contributor
 
-I am Sushmita Rudra.I am pursuing Applied Computer Science.
+I am Sushmita Rudra.I am pursuing Applied Computer Science at Northwest Missouri State University
 You can know more about me in the index.txt of my repository.
 
 ![Sushmita Rudra](Photo.jpg "Sushmita Rudra")
