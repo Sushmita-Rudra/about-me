@@ -35,8 +35,8 @@ Below are the few links which helped me gain knowledge on developing github page
 
 ## Contributor
 
-I am Sushmita Rudra.I am pursuing Applied Computer Science at Northwest Missouri State University.
-You can know more about me in the index.txt of my repository.
+I am Sushmita Rudra.I am pursuing Applied Computer Science course at Northwest Missouri State University.
+
 
 ![Sushmita Rudra](Photo2.jpg "Sushmita Rudra")
 
