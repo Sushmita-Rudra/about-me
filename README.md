@@ -7,4 +7,7 @@
 
 ## About
 
-This page will be used as my personal website which contains all my work
+This repository will have all my work while I develop my own personal website using various technologies.I will also add links to tools which I recommend 
+
+## Recommended Tools
+
