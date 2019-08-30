@@ -33,5 +33,12 @@ Below are the few links which helped me gain knowledge on developing github page
 * [Stack overflow](https://stackoverflow.com/)
 * [Github on windows](https://www.thewindowsclub.com/github-tutorial)
 
+## Contributor
+
+I am Sushmita Rudra.I am pursuing Applied Computer Science.
+You can know more about me in the index.txt of my repository.
+
+![Sushmita Rudra]( "Sushmita Rudra")
+
 
 
