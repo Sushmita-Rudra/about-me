@@ -11,23 +11,15 @@ This repository will have all my work while I develop my own personal website us
 
 ## Recommended Tools
 
-Below are the tools and lanquages , which I personally felt useful to me while developing Github pages and publish my repo.
-
-### Tools:
+Below are the tools which I personally felt useful to me while developing Github pages and publishing my repo.
 
 * [Google Chrome](https://www.google.com/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-
-### Languages:
-
-* HTML
-* CSS
-
 ## Recommended Resources
 
-Below are the few links which helped me gain knowledge on developing github pages
+Below are the few links which helped me gain knowledge on developing github pages.
 
 * [Github help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 * [Stack overflow](https://stackoverflow.com/)
@@ -35,7 +27,7 @@ Below are the few links which helped me gain knowledge on developing github page
 
 ## Contributor
 
-I am Sushmita Rudra.I am pursuing Applied Computer Science at Northwest Missouri State University
+I am Sushmita Rudra.I am pursuing Applied Computer Science at Northwest Missouri State University.
 You can know more about me in the index.txt of my repository.
 
 ![Sushmita Rudra](Photo.jpg "Sushmita Rudra")
