@@ -11,11 +11,19 @@ This repository will have all my work while I develop my own personal website us
 
 ## Recommended Tools
 
-Below are the tools which I personally felt useful to me while developing Github pages and publishing my repo.
+Below are the tools and languages, which I personally felt useful to me while developing Github pages and publishing my repo.
+
+### Tools:
 
 * [Google Chrome](https://www.google.com/chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+
+### Languages:
+
+- Markdown
+- HTML
+- CSS
 
 ## Recommended Resources
 
