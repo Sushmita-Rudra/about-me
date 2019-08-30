@@ -38,7 +38,7 @@ Below are the few links which helped me gain knowledge on developing github page
 I am Sushmita Rudra.I am pursuing Applied Computer Science.
 You can know more about me in the index.txt of my repository.
 
-![Sushmita Rudra](https://github.com/Sushmita-Rudra/about-me/blob/master/Photo.jpg "Sushmita Rudra")
+![Sushmita Rudra](https://Photo.jpg "Sushmita Rudra")
 
 
 
